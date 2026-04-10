@@ -1,0 +1,14 @@
+photo-pro-max/
+│
+├── app.py
+├── models.py
+├── requirements.txt
+│
+├── templates/
+│   ├── login.html
+│   ├── dashboard.html
+│   ├── admin.html
+│   ├── album.html
+│
+└── static/
+    └── style.css
